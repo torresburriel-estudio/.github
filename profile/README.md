@@ -1,6 +1,6 @@
 # Torresburriel Estudio
 
-UX consultancy based in Zaragoza, Spain, with teams in Spain and Latin America. We've been designing digital products and services since 2002 and are the Spanish member of [UX Alliance](https://www.uxalliance.com).
+UX consultancy based in Zaragoza, Spain, with teams in Spain and Latin America. We've been designing digital products and services since 2011 and are the Spanish member of [UX Alliance](https://www.uxalliance.com).
 
 ## What we do
 
